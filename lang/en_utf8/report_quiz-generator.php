@@ -1,0 +1,1 @@
+$string["quiz-generator"] = "Quiz Generator";
